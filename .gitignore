@@ -217,5 +217,6 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Database studygroups.db # macOS
+# Database
+studygroups.db
 .DS_Store
